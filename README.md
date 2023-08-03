@@ -9,7 +9,7 @@ This python script use <strong>"itk"</strong> library to apply a filter to an im
 Before you start, you have to clone the git repository with this command : 
 
 ```
-git clone 
+git clone https://github.com/FlorianDAVAUX/First_Exercise.git
 ```
 Then, you have ton install the two librairies :
 
