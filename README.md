@@ -2,7 +2,7 @@
 
 ## Short Description about the exercise
 
-This python script use <strong>"itk"</strong> library to apply a filter to an image. Then, it is possible to see the two images (the original image and the filtered one) with the <strong>"vtk"</strong> library.
+This python script uses <strong>"itk"</strong> library to apply a filter to an image. Then, it is possible to see the two images (the original image and the filtered one) with the <strong>"vtk"</strong> library.
 
 ## Preparation
 
