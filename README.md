@@ -32,7 +32,7 @@ python3 exercise.py input_image output_image radius
 
 ### Image Processing 
 1. First, the script read the image with <strong>"itk.imread()"</strong>
-2. Then, it applies the mdeian filter with <strong>"itk.median_image_filter()"</strong>
+2. Then, it applies the median filter with <strong>"itk.median_image_filter()"</strong>
 3. Finally, it saves the new image with <strong>"itk.imwrite()"</strong>
 
 ### Image Visualization
